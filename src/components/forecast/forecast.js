@@ -63,3 +63,5 @@ const Forecast = ({ data }) => {
     </>
   )
 }
+
+export default Forecast
