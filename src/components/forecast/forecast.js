@@ -4,7 +4,6 @@ import {
     AccordionItemHeading,
     AccordionItemButton,
     AccordionItemPanel,
-  } from "react-accessible-accordion";
+  } from "accordion-js";
   import "./forecast.css";
 
-  
